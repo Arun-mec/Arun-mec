@@ -9,7 +9,7 @@
 ### Languages and Tools <br/>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,react,nextjs,springboot,nodejs,express,mongodb,sql,firebase" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,react,nextjs,spring,nodejs,express,mongodb,postgresql,firebase" />
   </a>
 </p>
 
